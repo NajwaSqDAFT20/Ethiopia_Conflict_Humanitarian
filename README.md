@@ -24,7 +24,7 @@ I am using 4 different datasets available publicly:
 * Due to time constraints, I could not analyse all of the 4 datasets. Next, will be running a deeper analysis 
 
 ## Data sources:
-IDP Datasets: https://dtm.iom.int/
-Conflict Datasets: https://acleddata.com/#/dashboard
-3w Datasets: https://data.humdata.org/dataset/ethiopia-operational-presence
-Donors/humanitarian financial tracking: https://fts.unocha.org/
+* IDP Datasets: https://dtm.iom.int/
+* Conflict Datasets: https://acleddata.com/#/dashboard
+* 3w Datasets: https://data.humdata.org/dataset/ethiopia-operational-presence
+* Donors/humanitarian financial tracking: https://fts.unocha.org/
